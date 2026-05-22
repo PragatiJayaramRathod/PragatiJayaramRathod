@@ -20,12 +20,12 @@ I am a Computer Science and Engineering student at Bangalore Institute of Techno
 
 ### 👩‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,cs,perl" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" />
 </p>
 
 ### ⚡ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react,express,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,tensorflow,springboot" />
 </p>
 
 ### ☁️ DevOps & Cloud
