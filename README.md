@@ -83,17 +83,6 @@ I am a Computer Science and Engineering student at Bangalore Institute of Techno
 ### 🧠 Melanoma Spotter: A Hybrid Deep Learning Approach with VGG16 and DenseNet121
 Published in IJARSET Journal (2026)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PragatiJayaramRathod&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiJayaramRathod&layout=compact&theme=tokyonight" />
-</p>
-----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -111,15 +100,6 @@ Published in IJARSET Journal (2026)
 </a>
 
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PragatiJayaramRathod&theme=tokyo-night" />
-</p>
-
 ---
 
 <p align="center">
