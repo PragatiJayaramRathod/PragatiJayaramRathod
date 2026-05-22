@@ -35,7 +35,9 @@ I am a Computer Science and Engineering student at Bangalore Institute of Techno
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb, oracledb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" />
 </p>
 
 ### 🤖 AI / ML & Tools
