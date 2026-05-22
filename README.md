@@ -36,20 +36,13 @@ I am a Computer Science and Engineering student at Bangalore Institute of Techno
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" />
-</p>
-
-### 🤖 AI / ML & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 DevOps Intern — Test Yantra Software Solutions Pvt Ltd
+### 🚀 DevOps and Java Full Stack Intern
 
 - Worked on Core Java development and DevOps practices
 - Built and managed Maven-based applications
