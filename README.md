@@ -1,89 +1,120 @@
 <h1 align="center">Hi 👋, I'm Pragati Jayaram Rathod</h1>
-<h3 align="center">Java Full Stack Developer | DevOps Enthusiast | AI/ML Learner</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | Java Full Stack Developer | DevOps & Cloud Enthusiast | AI/ML Researcher
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Java+Developer;Spring+Boot+Developer;DevOps+Learner;AI%2FML+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;DevOps+and+Cloud+Learner;AWS+%7C+Docker+%7C+Kubernetes;AI%2FML+Research+Enthusiast;Spring+Boot+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 ISE Student at Bangalore Institute of Technology
-- 💻 Passionate about Java, Spring Boot, DevOps, and AI/ML
-- 🚀 Currently exploring Docker, Jenkins, Kubernetes, AWS, and CI/CD
-- 🧠 Built projects on:
-  - Melanoma Skin Cancer Detection
-  - Loan Prediction System
-  - Cafe POS System
-  - Google Translation Project
+I am a Computer Science and Engineering student at Bangalore Institute of Technology with a strong passion for software development, DevOps, cloud technologies, and AI-driven applications. My interests include Java, Spring Boot, Python, Machine Learning, CI/CD pipelines, Docker, Kubernetes, AWS Cloud, and scalable backend systems.Currently, I am undergoing as a DevOps and Java Full Stack Intern, where I gain hands-on experience in Maven project builds, AWS EC2 deployment, Jenkins CI/CD pipelines, Apache Tomcat, Nginx, Git, Docker, and cloud-native deployment workflows. I enjoy building AI-powered and cloud-native applications that solve real-world problems while improving scalability, automation, and system performance. My mission is to continuously learn modern technologies and contribute to impactful software engineering, DevOps automation, and AI/ML innovations.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Tools
 
+### 👩‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,python,docker,jenkins,kubernetes,aws,git,github,linux,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,cs,perl" />
+</p>
+
+### ⚡ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react,express,tensorflow" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,aws,gcp,linux,nginx,git,github,maven,gradle" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb, oracledb" />
+</p>
+
+### 🤖 AI / ML & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
+
+### 🚀 DevOps Intern — Test Yantra Software Solutions Pvt Ltd
+
+- Worked on Core Java development and DevOps practices
+- Built and managed Maven-based applications
+- Deployed applications on AWS EC2
+- Worked with AWS S3 services
+- Configured Apache Tomcat and Nginx servers
+- Automated CI/CD pipelines using Jenkins
+- Used Git for version control and workflow management
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Melanoma Spotter: Hybrid Deep Learning Model
+- Developed a hybrid AI model using VGG16 and DenseNet121
+- Used HAM10000 dataset for skin lesion classification
+- Applied preprocessing and data augmentation techniques
+- Tech Stack: Python, TensorFlow, Keras, HTML, CSS, JavaScript
+
+### 🔹 AI-Enhanced Healthcare Management System
+- Developed an AI-powered healthcare management platform
+- Implemented Random Forest and Feedforward Neural Network models
+- Built dashboard for patient monitoring and disease prediction
+- Tech Stack: Python, Machine Learning Libraries
+
+---
+
+## 📚 Certifications
+
+- 🏅 JNCIA-SEC Certification — Juniper Networks
+- ☁️ Google Cloud Computing Foundation Certification
+- 🔐 Google Cloud Cybersecurity Certification
+
+---
+
+## 📄 Research Publication
+
+### 🧠 Melanoma Spotter: A Hybrid Deep Learning Approach with VGG16 and DenseNet121
+Published in IJARSET Journal (2026)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PragatiJayaramRathod&show_icons=true&theme=tokyonight" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiJayaramRathod&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragatiJayaramRathod&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PragatiJayaramRathod&theme=algolia" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Melanoma Skin Cancer Detection
-Deep learning project using ResNet121 and VGG16.
-
-### 🔹 Loan Prediction System
-Machine learning model for loan approval prediction.
-
-### 🔹 Cafe POS System
-Java application for cafe billing and management.
-
-### 🔹 DevOps CI/CD Pipeline
-Spring Boot deployment using Docker, Jenkins, Kubernetes, and AWS.
-
----
+----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/pragati-rathod-708657309">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+<a href="https://linkedin.com/in/pragati-rathod-708657309">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
-  <a href="https://github.com/PragatiJayaramRathod">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<a href="mailto:p89850005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://github.com/PragatiJayaramRathod">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
 </p>
 
 ---
@@ -97,5 +128,5 @@ Spring Boot deployment using Docker, Jenkins, Kubernetes, and AWS.
 ---
 
 <p align="center">
-✨ Code • Build • Innovate ✨
+✨ Code • Learn • Build • Deploy • Innovate ✨
 </p>
